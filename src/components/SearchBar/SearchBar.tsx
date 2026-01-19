@@ -50,9 +50,3 @@ export default function SearchBar({
     </header>
   );
 }
-
-// {
-//   !isLoading && movies && movies?.length < 1 && (
-//     <ErrorMessage text="No movies found for your request." />
-//   );
-// }
